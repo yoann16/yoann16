@@ -65,7 +65,7 @@ Vulkan (via vk::raii), without using an existing engine.
 | Multiplayer Game | C++, Network Programming | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | Repo Not Available |
 | Vulkan 3D Engine | C++, Vulkan, Slang | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Moteur3D_Vulkan.git) |
 | SFML Personnal 2D Engine | C++, 2D Engine Programming, SFML | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Engine2D.git) |
-| Vulkan Personnal 3D Engine | C++, 3D Engine Programming, Vulkan, Slang, Blender | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo Not Available ](https://github.com/yoann16/Custom_Engine.git) |
+| Vulkan Personnal 3D Engine | C++, 3D Engine Programming, Vulkan, Slang, Blender | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Custom_Engine.git) |
 | Ogre-Next Personal 3D Engine  | C++, 3D Engine Programming, Ogre-Next, Blender | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git) |
 
 ---
