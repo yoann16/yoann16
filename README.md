@@ -1,10 +1,10 @@
 ## Hi there, I'm Yoann (he/him) 👋🏾
 
-Je suis un **Développeur Junior** étudiant en informatique, passionné par le développement de **moteurs de jeux** et le **C++**.
+I am a **Junior Developer** studying computer science, passionate about **game engine** development and **C++**.
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Technical stack
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -16,6 +16,7 @@ Je suis un **Développeur Junior** étudiant en informatique, passionné par le 
 ![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logo=doxygen&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/BLENDER-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
@@ -25,31 +26,52 @@ Je suis un **Développeur Junior** étudiant en informatique, passionné par le 
 
 ## 🚀 Projets
 
-### 🎮 Moteur 3D — Vulkan
-> Moteur de rendu 3D développé from scratch avec l'API Vulkan.
+### 🎮 Engine 3D — Vulkan
+> 3D rendering engine developed from scratch with the Vulkan API.
 
-- Rendu temps réel bas niveau
-- Architecture ECS
-- C++ moderne
-- Spline de Catmull-Rom
+- Low-level real-time rendering
+- ECS architecture
+- Modern C++
+- Catmull-Rom spline
 
-🔗 [Voir le dépôt](https://github.com/yoann16/Moteur3D_Vulkan.git)
-
----
-
-## 📊 Stats GitHub
-
-<div align="center">
-
-![Yoann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoann16&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoann16&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+🔗 [See the repository](https://github.com/yoann16/Moteur3D_Vulkan.git)
 
 ---
 
-## 📬 Me contacter
+## Status of My Projects
+
+| Projet | Technos | Status | Repo |
+|--------|---------|--------|--------|
+|Demineur| C++ | ✅ Finished | [Repo](https://github.com/yoann16/Demineur.git) |
+| RPG Character Editor | C++, POO | ✅ Finished | [Repo](https://github.com/yoann16/Editeur_de_Personnage_RPG.git) |
+| Image Processing | C++ | ✅ Finished | [Repo](https://github.com/yoann16/Traitement_Images.git) |
+| Shoot'em up | C++, 2D Engine Programming, SFML | ✅ Finished | [Repo](https://github.com/yoann16/Shoot_em_up.git) |
+| Media Library Manager | C++, Encapsulation | ✅ Finished | [Repo](https://github.com/yoann16/GestionMediatheque.git) |
+| Mathematics Bookstore | C++, Template, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Mathematical_Library.git) |
+| AI Demo | C++, AI Programming, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Demo_IA.git) |
+| Cursed Kingdom | C++, 2D Engine Programming, SFML, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Mini_Studio_Shoot_em_Up_2.git) |
+| Adventure game | C++, 2D Engine Programming, SFML, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Jeux-d-aventure.git) |
+| Mini 3D Game | C++, 3D Engine Programming | ✅ Finished | Repo Not Available |
+| Runner 3D | C++, 3D Engine Programming | ✅ Finished | Repo Not Available |
+| Pathfinding | C++, AI Programming | ✅ Finished | Repo Not Available |
+| Arena Shooter | C++, 3D Engine Programming, Ogre-Next | ✅ Finished | Repo Not Available |
+| Multiplayer Game | C++, Network Programming | ✅ Finished | Repo Not Available |
+| Moteur 3D Vulkan | C++, Vulkan, Slang | ✅ Finished | [Repo](https://github.com/yoann16/Moteur3D_Vulkan.git) |
+| Moteur 2D SFML Perso | C++, 2D Engine Programming, SFML | 🚧 In progress | [Repo](https://github.com/yoann16/Engine2D.git) |
+| Moteur 3D Vulkan Perso | C++, 3D Engine Programming, Vulkan, Slang, Blender | 🚧 In progress | [Repo Not Available ](#) |
+| Moteur 3D Ogre-Next Perso  | C++, 3D Engine Programming, Ogre-Next, Blender | 🚧 In progress | [Repo](https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git) |
+
+---
+
+## 🌱 At this moment
+
+- 🔧 I'm working on my own Vulkan 3D engine
+- 📚 I'm learning graphics programming and engine architecture
+- 🎯 My next goal: Start learning assembly language
+
+---
+
+## 📬 Contact me
 
 [![GitHub](https://img.shields.io/badge/GitHub-yoann16-181717?style=flat-square&logo=github)](https://github.com/yoann16)
-[![LinkeDin](https://img.shields.io/badge/LinkedIn-Yoann%20Joseph-0A66C2?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/yoann-joseph-etudiant/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoann%20Joseph-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yoann-joseph-etudiant/)
