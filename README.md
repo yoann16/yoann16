@@ -80,4 +80,4 @@ Vulkan (via vk::raii), without using an existing engine.
 
 ## 📬 Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoann%20Joseph-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yoann-joseph-etudiant/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoann%20Joseph-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoann-joseph-etudiant/)
