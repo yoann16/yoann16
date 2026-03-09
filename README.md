@@ -63,10 +63,10 @@ Vulkan (via vk::raii), without using an existing engine.
 | Pathfinding | C++, AI Programming | ✅ Finished | Repo Not Available |
 | Arena Shooter | C++, 3D Engine Programming, Ogre-Next | ✅ Finished | Repo Not Available |
 | Multiplayer Game | C++, Network Programming | ✅ Finished | Repo Not Available |
-| Moteur 3D Vulkan | C++, Vulkan, Slang | ✅ Finished | [Repo](https://github.com/yoann16/Moteur3D_Vulkan.git) |
-| Moteur 2D SFML Perso | C++, 2D Engine Programming, SFML | 🚧 In progress | [Repo](https://github.com/yoann16/Engine2D.git) |
-| Moteur 3D Vulkan Perso | C++, 3D Engine Programming, Vulkan, Slang, Blender | 🚧 In progress | [Repo Not Available ](#) |
-| Moteur 3D Ogre-Next Perso  | C++, 3D Engine Programming, Ogre-Next, Blender | 🚧 In progress | [Repo](https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git) |
+| Vulkan 3D Engine | C++, Vulkan, Slang | ✅ Finished | [Repo](https://github.com/yoann16/Moteur3D_Vulkan.git) |
+| SFML Personnal 2D Engine | C++, 2D Engine Programming, SFML | 🚧 In progress | [Repo](https://github.com/yoann16/Engine2D.git) |
+| Vulkan Personnal 3D Engine | C++, 3D Engine Programming, Vulkan, Slang, Blender | 🚧 In progress | [Repo Not Available ](#) |
+| Ogre-Next Personal 3D Engine  | C++, 3D Engine Programming, Ogre-Next, Blender | 🚧 In progress | [Repo](https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git) |
 
 ---
 
