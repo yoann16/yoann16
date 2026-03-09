@@ -18,27 +18,34 @@ I am a **Junior Developer** studying computer science, passionate about **game e
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/BLENDER-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 
 ---
 
-## 🚀 Projets
+## Projets
 
-### 🎮 Engine 3D — Vulkan
-> 3D rendering engine developed from scratch with the Vulkan API.
+### Engine 3D — Vulkan
+> The goal was to create a 3D “Roller-Coaster rail shooter” game in C++ and
+Vulkan (via vk::raii), without using an existing engine.
 
 - Low-level real-time rendering
 - ECS architecture
 - Modern C++
 - Catmull-Rom spline
+- Vulkan Modern C++
 
-🔗 [See the repository](https://github.com/yoann16/Moteur3D_Vulkan.git)
+[See the repository](https://github.com/yoann16/Moteur3D_Vulkan.git)
 
 ---
 
 ## Status of My Projects
+
+<!-- Ceci est un commentaire, invisible au rendu -->
+<!-- 
+✅ Finished 
+🚧 In progress
+[Repo Not Available ](#) 
+-->
 
 | Projet | Technos | Status | Repo |
 |--------|---------|--------|--------|
@@ -65,13 +72,12 @@ I am a **Junior Developer** studying computer science, passionate about **game e
 
 ## 🌱 At this moment
 
-- 🔧 I'm working on my own Vulkan 3D engine
-- 📚 I'm learning graphics programming and engine architecture
-- 🎯 My next goal: Start learning assembly language
+- I'm working on my own Vulkan 3D engine
+- I'm learning graphics programming and engine architecture
+- My next goal: Start learning assembly language
 
 ---
 
 ## 📬 Contact me
 
-[![GitHub](https://img.shields.io/badge/GitHub-yoann16-181717?style=flat-square&logo=github)](https://github.com/yoann16)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoann%20Joseph-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yoann-joseph-etudiant/)
