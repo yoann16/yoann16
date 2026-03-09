@@ -42,31 +42,31 @@ Vulkan (via vk::raii), without using an existing engine.
 
 <!-- Ceci est un commentaire, invisible au rendu -->
 <!-- 
-✅ Finished 
-🚧 In progress
+![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge)
+![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge)
 [Repo Not Available ](#) 
 -->
 
 | Projet | Technos | Status | Repo |
 |--------|---------|--------|--------|
-|Demineur| C++ | ✅ Finished | [Repo](https://github.com/yoann16/Demineur.git) |
-| RPG Character Editor | C++, POO | ✅ Finished | [Repo](https://github.com/yoann16/Editeur_de_Personnage_RPG.git) |
-| Image Processing | C++ | ✅ Finished | [Repo](https://github.com/yoann16/Traitement_Images.git) |
-| Shoot'em up | C++, 2D Engine Programming, SFML | ✅ Finished | [Repo](https://github.com/yoann16/Shoot_em_up.git) |
-| Media Library Manager | C++, Encapsulation | ✅ Finished | [Repo](https://github.com/yoann16/GestionMediatheque.git) |
-| Mathematics Bookstore | C++, Template, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Mathematical_Library.git) |
-| AI Demo | C++, AI Programming, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Demo_IA.git) |
-| Cursed Kingdom | C++, 2D Engine Programming, SFML, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Mini_Studio_Shoot_em_Up_2.git) |
-| Adventure game | C++, 2D Engine Programming, SFML, CMake | ✅ Finished | [Repo](https://github.com/yoann16/Jeux-d-aventure.git) |
-| Mini 3D Game | C++, 3D Engine Programming | ✅ Finished | Repo Not Available |
-| Runner 3D | C++, 3D Engine Programming | ✅ Finished | Repo Not Available |
-| Pathfinding | C++, AI Programming | ✅ Finished | Repo Not Available |
-| Arena Shooter | C++, 3D Engine Programming, Ogre-Next | ✅ Finished | Repo Not Available |
-| Multiplayer Game | C++, Network Programming | ✅ Finished | Repo Not Available |
-| Vulkan 3D Engine | C++, Vulkan, Slang | ✅ Finished | [Repo](https://github.com/yoann16/Moteur3D_Vulkan.git) |
-| SFML Personnal 2D Engine | C++, 2D Engine Programming, SFML | 🚧 In progress | [Repo](https://github.com/yoann16/Engine2D.git) |
-| Vulkan Personnal 3D Engine | C++, 3D Engine Programming, Vulkan, Slang, Blender | 🚧 In progress | [Repo Not Available ](https://github.com/yoann16/Custom_Engine.git) |
-| Ogre-Next Personal 3D Engine  | C++, 3D Engine Programming, Ogre-Next, Blender | 🚧 In progress | [Repo](https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git) |
+|Demineur| C++ | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge)| [Repo](https://github.com/yoann16/Demineur.git) |
+| RPG Character Editor | C++, POO | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Editeur_de_Personnage_RPG.git) |
+| Image Processing | C++ | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Traitement_Images.git) |
+| Shoot'em up | C++, 2D Engine Programming, SFML | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Shoot_em_up.git) |
+| Media Library Manager | C++, Encapsulation | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/GestionMediatheque.git) |
+| Mathematics Bookstore | C++, Template, CMake | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Mathematical_Library.git) |
+| AI Demo | C++, AI Programming, CMake | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Demo_IA.git) |
+| Cursed Kingdom | C++, 2D Engine Programming, SFML, CMake | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Mini_Studio_Shoot_em_Up_2.git) |
+| Adventure game | C++, 2D Engine Programming, SFML, CMake | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Jeux-d-aventure.git) |
+| Mini 3D Game | C++, 3D Engine Programming | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | Repo Not Available |
+| Runner 3D | C++, 3D Engine Programming | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | Repo Not Available |
+| Pathfinding | C++, AI Programming | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | Repo Not Available |
+| Arena Shooter | C++, 3D Engine Programming, Ogre-Next | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | Repo Not Available |
+| Multiplayer Game | C++, Network Programming | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | Repo Not Available |
+| Vulkan 3D Engine | C++, Vulkan, Slang | ![FINISHED](https://img.shields.io/badge/FINISHED-3B8F58?style=for-the-badge) | [Repo](https://github.com/yoann16/Moteur3D_Vulkan.git) |
+| SFML Personnal 2D Engine | C++, 2D Engine Programming, SFML | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Engine2D.git) |
+| Vulkan Personnal 3D Engine | C++, 3D Engine Programming, Vulkan, Slang, Blender | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo Not Available ](https://github.com/yoann16/Custom_Engine.git) |
+| Ogre-Next Personal 3D Engine  | C++, 3D Engine Programming, Ogre-Next, Blender | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git) |
 
 ---
 
