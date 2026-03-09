@@ -41,7 +41,7 @@ Je suis un **Développeur Junior** étudiant en informatique, passionné par le 
 
 <div align="center">
 
-![Yoann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoann16&show_icons=true&theme=tokyonight&hide_border=true)
+![Yoann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoann16&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoann16&layout=compact&theme=tokyonight&hide_border=true)
 
