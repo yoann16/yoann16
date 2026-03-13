@@ -67,7 +67,7 @@ Vulkan (via vk::raii), without using an existing engine.
 | SFML Personnal 2D Engine | C++, 2D Engine Programming, SFML | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Engine2D.git) |
 | Vulkan Personnal 3D Engine | C++, 3D Engine Programming, Vulkan, Slang, Blender | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Custom_Engine.git) |
 | Ogre-Next Personal 3D Engine  | C++, 3D Engine Programming, Ogre-Next, Blender | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git) |
-| Various Python projects | Python, 2D Engine programming | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo]([https://github.com/yoann16/Game_Engine_3D_Ogre_Next.git](https://github.com/yoann16/Divers_Projet_Python.git)) |
+| Various Python projects | Python, 2D Engine programming | ![IN PROGRESS](https://img.shields.io/badge/IN%20PROGRESS-DB4A2E?style=for-the-badge) | [Repo](https://github.com/yoann16/Divers_Projet_Python.git) |
 
 ---
 
